@@ -9,9 +9,11 @@
 	<header>
 <<<<<<< HEAD
 		<h1>Header MASTER</h1>
+		<p>Paragraph MAIN</p>
 =======
-		<h1>HEADER BRANCH_VASYA</h1>
->>>>>>> branch_vasya
+		<h1>Header branch2 $</h1>
+		<p>Paragraph BRANCH2</p>
+>>>>>>> branch2
 		<aside></aside>
 	</header>
 	<content>
